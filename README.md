@@ -11,9 +11,9 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=321aurora&show_icons=true&theme=radical&title_color=f57900&text_color=73d216&bg_color=000000&locale=en&layout=compact" alt="321aurora" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=321aurora&show_icons=true&title_color=729fcf&text_color=000000&bg_color=ffffff&locale=en&layout=compact" alt="321aurora" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=321aurora&show_icons=true&theme=synthwave&title_color=f57900&text_color=73d216&bg_color=000000&cache_seconds=1800&locale=en" alt="321aurora" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=321aurora&show_icons=true&theme=radical&title_color=f57900&text_color=73d216&bg_color=000000&cache_seconds=1800&locale=en" alt="321aurora" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=321aurora&theme=highcontrast" alt="321aurora" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=321aurora&theme=default" alt="321aurora" /></p>
 
